@@ -1,0 +1,20 @@
+{
+  "name": "coolmanmatic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coolman416614/coolmanmatic.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/coolman416614/coolmanmatic/issues"
+  },
+  "homepage": "https://github.com/coolman416614/coolmanmatic#readme"
+}
